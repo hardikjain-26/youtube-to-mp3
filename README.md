@@ -9,8 +9,13 @@ Pre-requsites :
 TIP :-> if you want to download multiple songs  , make a youtube playlist and then use its url here 
 
 Run the script as follows :-
+        To Donwnload Single Video:
+python utubetomp3.py -v 1 -u [Video URL] 
 
-python utubetomp3.py -u [Playlist/Video_URL] 
+        To download Entire Playlist:
+python utubetomp3.py  -u [Playlist URL]
+        
+        
 
 optional arguments :-
 
